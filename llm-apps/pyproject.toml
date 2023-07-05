@@ -22,6 +22,7 @@ streamlit = ">=1.19.0"
 typer = { extras = ["all"], version = ">=0.9.0" }
 langchain = "^0.0.221"
 openai = "^0.27.8"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.group.test.dependencies]  # https://python-poetry.org/docs/master/managing-dependencies/
 black = { extras = ["jupyter"], version = ">=23.3.0" }

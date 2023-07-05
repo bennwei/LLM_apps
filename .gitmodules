@@ -1,0 +1,3 @@
+[submodule "llm-apps/src/privateGPT"]
+	path = llm-apps/src/privateGPT
+	url = https://github.com/imartinez/privateGPT.git
